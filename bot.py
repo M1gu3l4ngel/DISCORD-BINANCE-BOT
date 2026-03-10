@@ -2,8 +2,8 @@ import discord
 import requests
 import asyncio
 
-TOKEN = 'OTU3MzU4NTc3MDcxMzA4ODIw.GjVAxo.q_ChudiGVmc-Wlm-uobVDMapGO5R62fer3gGeM'
-GUILD_ID = 862805410670575666  # puedes dejar el mismo si están en el mismo servidor
+TOKEN = 'YOUR-DISCORD-TOKEN'
+GUILD_ID = YOUR-GUILD-DISCORD-ID
 
 SYMBOL = 'BNBUSDT'
 NAME = 'BNB'
